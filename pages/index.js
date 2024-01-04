@@ -12,7 +12,7 @@ export default function Home() {
   const [isLoading, setIsLoading] = useState(true);
   const [flutters, setFlutters] = useState([]);
   const [page, setPage] = useState("Home");
-  const setUser = useSetUser();
+  const setUser = useSetUser();aaaaaaaaaaaaaaaadswea
 
   useEffect(() => {
     (async () => {
