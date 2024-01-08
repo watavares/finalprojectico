@@ -1,21 +1,12 @@
-# The MongoDB Atlas Data API in the Jamstack: The Serverless Dream!
-
-Live Demo: [https://socialbutterfly.vercel.app/](https://socialbutterfly.vercel.app/)
+Live Demo: [https://finalprojectico.vercel.app/](https://finalprojectico.vercel.app/)
 
 ## Introduction
 
-Do you love the Jamstack? Do you love to create all of the boilerplate code required to connect to databases in their Jamstack applications?
+Final Project ICO based on Social Demo APP by Mongo DB
 
-This workshop will show you how you can connect to MongoDB Atlas in your Jamstack application with minimal effort and without using any drivers.
-
-## What we'll cover in this workshop
-
-- ~15 minutes of slides explaining Jamstack, serverless, and how the MongoDB Atlas Data API fits into these.
-- Hands-on lesson resulting in you building a fully functional, deployed application. 
 
 ## Prerequisites
 
-In order to successfully complete the tasks in this workshop, you should have:
 
 - Familiarity with JavaScript
 - Accounts (All Free): 
@@ -29,9 +20,7 @@ In order to successfully complete the tasks in this workshop, you should have:
 
 That's it 🙌 *(no prior knowledge of MongoDB is required)*
 
-## Slides
 
-- [Workshop Slides](https://docs.google.com/presentation/d/1UuJl2kyuUfkDJah6WqSGa59ZTKtLK2SN-mMgUtAGqR0/edit?usp=sharing)
 
 ## Hands-on lesson
 
@@ -49,6 +38,4 @@ Throughout the workshop, you'll be working on the following lessons:
 9. [Lesson 9 - Create a Search Index and Implement Search Functionality](https://github.com/mongodb-developer/social-app-demo/tree/9-lesson)
 10. [Lesson 10 - Deploy to Vercel!](https://github.com/mongodb-developer/social-app-demo/tree/10-lesson)
 
----
 
-Let's get started with the [first lesson](https://github.com/mongodb-developer/social-app-demo/tree/1-lesson) ->
